@@ -1,1 +1,1 @@
-# heyziva-releases
+# releases
